@@ -1,0 +1,8 @@
+flwr>=1.0, <2.0
+flwr-datasets[vision]>=0.0.2, <1.0.0
+torch==2.1.1
+torchvision==0.16.1
+tqdm==4.65.0
+scikit-learn==1.4.2
+scipy==1.13.0
+numpy==1.26.4
