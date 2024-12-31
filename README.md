@@ -1,6 +1,6 @@
-SAGE: Enhanced Ability and Privacy for Interdisciplinary Course Performance Prediction in Higher Education
+ARISE: Enhanced Ability and Privacy for Interdisciplinary Course Performance Prediction in Higher Education
 
-This repository contains the PyTorch imploymentation for the SAGE.  If you have any questions on this repository or related paper, feel free to create an issue or send me an email.
+This repository contains the PyTorch imploymentation for the ARISE.  If you have any questions on this repository or related paper, feel free to create an issue or send me an email.
 
 Migrate code to the following environment:
 
